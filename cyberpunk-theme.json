@@ -1,9 +1,9 @@
 {
-  "name": "cyberpunk edge runner theme",
-  "description": "A theme made by btmc727",
+  "name": "KNOX DW THEME",
+  "description": "A theme made by Drago",
   "authors": [
     {
-      "name": "btmc727",
+      "name": "Drago",
       "id": "554071670143451176"
     }
   ],
@@ -18,7 +18,7 @@
   },
   "background": {
     "blur": 0.4,
-    "url": "https://betterthanbtmc.s-ul.eu/Uy2SpFOR",
+    "url": "https://cdn.discordapp.com/attachments/1243988019829149867/1329273888731037727/IMG_20250116_081900.jpg?ex=6789be47&is=67886cc7&hm=abf459ffaf90e092a001afb84a8a56cfe3e58ea9b5629b8b4f51248ca2581709&",
     "alpha": 0.4
   }
 }
